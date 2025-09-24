@@ -1,0 +1,26 @@
+plugins {
+    id 'application'
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    
+    implementation files('libs/jediterm-core-3.55-SNAPSHOT.jar')
+    implementation files('libs/jediterm-ui-3.55-SNAPSHOT.jar')
+    implementation files('libs/jediterm-3.55-SNAPSHOT.jar')
+
+    implementation 'org.jetbrains.pty4j:pty4j:0.13.11'
+}
+java {
+    toolchain {
+        languageVersion = JavaLanguageVersion.of(21)
+    }
+}
+
+application {
+    // Change this to your own app’s main class if you’re not just testing the demo
+    mainClass = 'jediterm.demo.JediTermDemo'
+}
