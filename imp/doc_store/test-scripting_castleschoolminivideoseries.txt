@@ -1,0 +1,1 @@
+{"lc": 1, "type": "constructor", "id": ["langchain", "schema", "document", "Document"], "kwargs": {"metadata": {"source": "test-scripting_castleschoolminivideoseries.txt"}, "page_content": "Key Concepts\nPost date: Mar 14, 2019 1:06:16 PM\nThis is a mini video series, targeting Castle 5 users who wish to ensure they have \nthe basic knowledge.", "type": "Document"}}

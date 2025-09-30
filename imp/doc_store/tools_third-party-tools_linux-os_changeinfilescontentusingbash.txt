@@ -1,0 +1,1 @@
+{"lc": 1, "type": "constructor", "id": ["langchain", "schema", "document", "Document"], "kwargs": {"metadata": {"source": "tools_third-party-tools_linux-os_changeinfilescontentusingbash.txt"}, "page_content": "Change in files content using bash\nPost date: Mar 1, 2016 4:21:28 PM\nfind . -type f -exec sed -i 's/UPA_Internal_HPSensors/DAA_AUDI_A8/' {} +", "type": "Document"}}

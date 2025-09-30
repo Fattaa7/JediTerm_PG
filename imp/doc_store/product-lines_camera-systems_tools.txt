@@ -1,0 +1,1 @@
+{"lc": 1, "type": "constructor", "id": ["langchain", "schema", "document", "Document"], "kwargs": {"metadata": {"source": "product-lines_camera-systems_tools.txt"}, "page_content": "Tools\nTools to be installed\nepiphan (Can be found in the AutoSetupTool)\nepiphan (Can be found in the AutoSetupTool)\nepiphan (Can be found in the AutoSetupTool)", "type": "Document"}}

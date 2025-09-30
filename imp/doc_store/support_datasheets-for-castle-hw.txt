@@ -1,0 +1,1 @@
+{"lc": 1, "type": "constructor", "id": ["langchain", "schema", "document", "Document"], "kwargs": {"metadata": {"source": "support_datasheets-for-castle-hw.txt"}, "page_content": "Datasheets\nFor the shipment of Castle HW, sometimes a Datasheet (DS) is needed.\nPlease find all DS we have created so far attached to this site.", "type": "Document"}}

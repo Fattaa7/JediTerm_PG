@@ -1,0 +1,1 @@
+{"lc": 1, "type": "constructor", "id": ["langchain", "schema", "document", "Document"], "kwargs": {"metadata": {"source": "hardware_castle-5_basis_calibration_calibration.txt"}, "page_content": "Calibration\nTo adjust and Calibrate your PIM, please use this projectherein CoreALM and check \nthislinkto build your setup for the Adjustment and Calibration.", "type": "Document"}}

@@ -1,0 +1,1 @@
+{"lc": 1, "type": "constructor", "id": ["langchain", "schema", "document", "Document"], "kwargs": {"metadata": {"source": "test-scripting_java_java-libraries_best-practices_locate-git-using-castle-util.txt"}, "page_content": "Locate Git sh using castle.util\nYou can locate git or git bash (sh) using castle.util in order to run any .sh script", "type": "Document"}}

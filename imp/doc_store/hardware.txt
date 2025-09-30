@@ -1,0 +1,1 @@
+{"lc": 1, "type": "constructor", "id": ["langchain", "schema", "document", "Document"], "kwargs": {"metadata": {"source": "hardware.txt"}, "page_content": "Hardware\nThis section describes the available Castle Hardware components.\nRefer to the sub pages for more information.\nDocumentation:\nSetup and Troubleshooting of Castle 5 systems", "type": "Document"}}
